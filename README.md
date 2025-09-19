@@ -25,7 +25,7 @@
 
 ### 🔥 推荐：下载预编译版本
 
-1. 前往 [Releases 页面](https://github.com/你的GitHub用户名/Launchpad/releases)
+1. 前往 [Releases 页面](https://github.com/comfzy/Launchpad/releases)
 2. 下载最新版本的 `Launchpad.zip`
 3. 解压后双击 `Launchpad.app` 即可使用
 
@@ -33,7 +33,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/你的GitHub用户名/Launchpad.git
+git clone https://github.com/comfzy/Launchpad.git
 cd Launchpad
 ```
 
