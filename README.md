@@ -23,11 +23,17 @@
 
 ## 安装
 
-### 从源码构建
+### 🔥 推荐：下载预编译版本
+
+1. 前往 [Releases 页面](https://github.com/你的GitHub用户名/Launchpad/releases)
+2. 下载最新版本的 `Launchpad.zip`
+3. 解压后双击 `Launchpad.app` 即可使用
+
+### 📦 从源码构建
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/yourusername/Launchpad.git
+git clone https://github.com/你的GitHub用户名/Launchpad.git
 cd Launchpad
 ```
 
